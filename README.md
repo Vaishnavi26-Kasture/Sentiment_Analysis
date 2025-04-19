@@ -5,7 +5,7 @@ A simple and interactive web application that predicts the sentiment (Positive A
 ## 🚀 Features
 
 - Real-time text sentiment analysis
-- Emoji-based feedback 😃😠😐
+- feedback Positive😃 and Negative😠
 - Clean and modern web interface
 - Built with Flask and scikit-learn
 - Lightweight and easy to run locally
