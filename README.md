@@ -1,6 +1,6 @@
 # 💬 Sentiment Analysis Web App
 
-A simple and interactive web application that predicts the sentiment (Positive, Negative, Neutral) of user-entered text using a machine learning model. Built with Flask, scikit-learn, and a beautiful emoji-powered UI.
+A simple and interactive web application that predicts the sentiment (Positive And Negative) of user-entered text using a machine learning model. Built with Flask, scikit-learn, and a beautiful emoji-powered UI.
 
 ## 🚀 Features
 
@@ -19,5 +19,9 @@ The model was trained using `TfidfVectorizer` and a classifier such as `Logistic
 - Python
 - Flask
 - HTML/CSS
+- NLP
 - scikit-learn
 - pickle
+
+## Screenshot
+
