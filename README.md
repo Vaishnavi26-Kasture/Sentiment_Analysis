@@ -25,5 +25,5 @@ The model was trained using `TfidfVectorizer` and a classifier such as `Logistic
 
 ## Screenshot
 
-![Screenshot].()
+![Screenshot].(https://github.com/Vaishnavi26-Kasture/Sentiment_Analysis/blob/main/Screenshot.jpg?raw=true)
 
